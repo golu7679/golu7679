@@ -1,6 +1,6 @@
 # Hello, welcome to my profile..
 
-### I am Golu, an aspiring engineer and enhusiastic programmer. 
+### I am Golu, an aspiring engineer and enthusiastic programmer. 
 #### I'm from India and a Computer Science student at KNU university.
 
 I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects.
