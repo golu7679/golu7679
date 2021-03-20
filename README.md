@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 -->
+### Hello there 👋🏻
+
+I'm Vein from Nepal🇳. I learn coding whenever I have time.
+
+![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golu701&count_private=true&show_icons=true)
