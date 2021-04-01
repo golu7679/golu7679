@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 -->
 
 ![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golu701&count_private=true&show_icons=true)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=golu701&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golu701&layout=compact&hide_border=true&theme=radical" />
+</div>
