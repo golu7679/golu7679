@@ -24,7 +24,7 @@ I have worked with Web-Development both frontend and backend.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/golu-rajak-a8567a1b7/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='50'>](https://www.hackerearth.com/@golu57)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerearth' height='50'>](https://www.hackerrank.com/golurajak811)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='50'>](https://leetcode.com/golu7679/)
 <!--
 **golu701/golu701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
