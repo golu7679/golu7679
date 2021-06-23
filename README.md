@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Golu Rajak&fontSize=90)
 # Hello, welcome to my profile..
 
 ### I am Golu, an enthusiastic programmer. 
@@ -47,3 +48,5 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=golu701&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golu701&layout=compact&hide_border=true&theme=radical" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
