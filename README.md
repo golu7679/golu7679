@@ -2,7 +2,7 @@
 # Hello, welcome to my profile..
 
 ### I am Golu, an enthusiastic programmer. 
-#### I'm from India and a Computer Science student at KNU university.
+#### I'm from India and a Computer Science student at Chandigrah university.
 
 I just love to learn new things and explore different areas. I like to do competitive programming as well as development projects.
 I have worked with Web-Development both frontend and backend.
@@ -26,20 +26,19 @@ I have worked with Web-Development both frontend and backend.
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Express](https://img.shields.io/badge/-Express%20-333333?style=flat&logo=express)
-<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
-  
-<!--   ![Django](https://img.shields.io/badge/-Django%20-333333?style=flat&logo=django) -->
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+  ![Django](https://img.shields.io/badge/-Django%20-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm&logoColor=FCC624)
-
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=golu701" alt="golu701" /> 
@@ -47,32 +46,15 @@ I have worked with Web-Development both frontend and backend.
 
 #### connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='50'>](https://www.codechef.com/users/golu7679) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/golu-rajak-a8567a1b7/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='50'>](https://www.hackerearth.com/@golu57)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerearth' height='50'>](https://www.hackerrank.com/golurajak811)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='50'>](https://leetcode.com/golu7679/)
-<!--
-**golu701/golu701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='50' style="background:white;" >](https://www.codechef.com/users/golu7679) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' style="background:DeepSkyBlue;">](https://www.linkedin.com/in/golu-rajak-a8567a1b7/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='50' style="background:Indigo;">](https://www.hackerearth.com/@golu7679)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerearth' height='50' style="background:#1ba94c;">](https://www.hackerrank.com/golu7679)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='50' style="background:orange;">](https://leetcode.com/golu7679/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ### Hi there 👋 ..
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
--->
-
-<!--
 ![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golu701&count_private=true&show_icons=true)
--->
+
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=golu701&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" />
