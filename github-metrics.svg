@@ -373,7 +373,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 255kb of code in 268 edited files across 15 commits over last 14 days</small>
+                <small>estimation from 254kb of code in 268 edited files across 15 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1566,7 +1566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefanprodan/swarmprom</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager</div>
@@ -1619,7 +1619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discordsuperutils/discord-super-utils</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern python module including many useful features that make discord bot programming extremely easy.</div>
@@ -2270,7 +2270,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2022, 17:57:52 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 18:29:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
