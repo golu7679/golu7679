@@ -373,19 +373,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 380kb of code in 342 edited files across 24 commits over last 13 days</small>
+                <small>estimation from 385kb of code in 342 edited files across 24 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.37189791314157" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="195.37189791314157" y="0" width="80.80971517202481" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="276.18161308516636" y="0" width="77.22609983079526" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="353.40771291596167" y="0" width="69.66969825155104" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="423.0774111675127" y="0" width="34.092992103778904" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.1704032712916" y="0" width="2.5944726452340663" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.7648759165257" y="0" width="0.23512408347433728" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.75402347318857" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="194.75402347318857" y="0" width="81.99276126221098" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="276.74678473539956" y="0" width="76.98186801602361" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="353.72865275142317" y="0" width="69.46552814674256" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="423.19418089816577" y="0" width="33.98517112938365" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.1793520275494" y="0" width="2.5862674819031555" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.76561950945256" y="0" width="0.23438049054747348" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2273,7 +2273,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 29 Aug 2022, 21:48:50
+                            On 30 Aug 2022, 20:44:24
                         </div>
                     </section>
                 </div>
@@ -2283,14 +2283,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            some modification
+                            username word change with email in backend section
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5d605a81</span>
-                            <span class="code">backend/models/user.js</span>
+                            <span class="code">13cd2eee</span>
+                            <span class="code">backend/config/passport.js</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2298,14 +2298,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -58,7 +58,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  return callback(error);<br /></span><span class="token prefix unchanged">·</span><span class="token line">} else {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  bcryptjs.compare(password, user.password, (err, result) =&gt; {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    if (result == true) {<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    if (result === true) {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      return callback(null, user);<br /></span><span class="token prefix unchanged">·</span><span class="token line">    } else {<br /></span><span class="token prefix unchanged">·</span><span class="token line">      let error = { msg: "Wrong username or password" };</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -19,7 +19,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">if (user) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  let signData = {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    id: user._id,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    username: user.username,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    email: user.email,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  };<br /></span><span class="token prefix unchanged">·</span><span class="token line">  return done(null, signData);<br /></span><span class="token prefix unchanged">·</span><span class="token line">} else {</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2022, 16:07:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 16:18:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
