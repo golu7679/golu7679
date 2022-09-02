@@ -379,10 +379,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.64985658061505" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="228.64985658061505" y="0" width="130.96391168034154" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="359.6137682609566" y="0" width="60.83316656660663" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="420.4469348275632" y="0" width="39.553065172436796" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.8657114295235" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="228.8657114295235" y="0" width="130.8417194268577" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="359.70743085638117" y="0" width="60.77640786404531" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="420.4838387204265" y="0" width="39.516161279573474" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2258,7 +2258,7 @@ Update in user route: new url verify_account url, authentication url changed to 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 20:29:40 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 2 Sept 2022, 20:48:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
