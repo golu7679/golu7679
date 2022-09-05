@@ -373,16 +373,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 44.6kb of code in 77 edited files across 24 commits over last 14 days</small>
+                <small>estimation from 47.2kb of code in 78 edited files across 24 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.8978608164178" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="258.8978608164178" y="0" width="99.75104971552088" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="358.64891053193867" y="0" width="55.06422519814157" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="413.71313573008024" y="0" width="46.286864269919754" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.4493700419972" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="271.4493700419972" y="0" width="93.37377508166122" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="364.82314512365843" y="0" width="51.709752683154456" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="416.5328978068129" y="0" width="43.467102193187124" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1570,7 +1570,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefanprodan/swarmprom</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager</div>
@@ -2279,7 +2279,7 @@ and some minor changes
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 13:26:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 13:42:19 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
