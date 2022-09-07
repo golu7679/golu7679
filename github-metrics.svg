@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2547" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2520" class="">
     <defs>
         <style/>
     </defs>
@@ -373,16 +373,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 45.5kb of code in 67 edited files across 25 commits over last 13 days</small>
+                <small>estimation from 43.6kb of code in 66 edited files across 25 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.00333206397562" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="235.00333206397562" y="0" width="125.90441736481341" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="360.90774942878903" y="0" width="54.75199923838537" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="415.6597486671744" y="0" width="44.34025133282559" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="238.57075201276203" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="238.57075201276203" y="0" width="131.80039382836063" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="370.37114584112265" y="0" width="46.436850370148804" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="416.8079962112715" y="0" width="43.19200378872853" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -399,15 +399,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                 </div>
             </section>
@@ -2246,7 +2246,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Sept 2022, 00:01:35
+                            On 8 Sept 2022, 01:01:23
                         </div>
                     </section>
                 </div>
@@ -2256,15 +2256,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            username issue in conversation section
-online user icon added
+                            github and angular image added
+home page design updated
+error fixed in app component
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">4691166e</span>
-                            <span class="code">src/app/app-routing.module.ts</span>
+                            <span class="code">eeee9f6a</span>
+                            <span class="code">src/app/app.component.ts</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -2272,14 +2273,14 @@ online user icon added
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,7 +25,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  canActivate: [AuthGuard],<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">{<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  path: "conversation/:email",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  path: "conversation/:email/:name",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  loadChildren: () =&gt; import("./modules/conversation/conversation.module").then(m =&gt; m.ConversationModule),<br /></span><span class="token prefix unchanged">·</span><span class="token line">  canActivate: [ConversationGuard],<br /></span><span class="token prefix unchanged">·</span><span class="token line">},</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -45,7 +45,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">async ngOnInit() {<br /></span><span class="token prefix unchanged">·</span><span class="token line">this.userAuthenticated = this.authService.currentUserDetails;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">this.userEmail = this.authService.currentUserDetails.user.email;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">this.userEmail = this.authService.currentUserDetails?.user.email;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">if (this.authService.currentUserDetails) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  this.getUsersList();<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2022, 02:21:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 02:28:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
