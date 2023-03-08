@@ -14,9 +14,8 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN  }}
-          base: ""
           
           
           user: golu7679
